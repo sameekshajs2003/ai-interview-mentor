@@ -14,32 +14,32 @@ export const CARD_BG = [
 export const APP_FEATURES = [
   {
     id: "01",
-    title: "Tailored Just for You",
+    title: "Personalized For Your Role",
     description:
-      "Get interview questions and model answers based on your role, experience, and specific focus areas — no generic prep, only what truly matters to you.",
+      "Receive interview prompts and model answers crafted for your role and experience — focused prep that matters.",
   },
   {
     id: "02",
-    title: "Learn at Your Own Pace",
+    title: "Learn On Your Schedule",
     description:
-      "Expand answers only when you're ready. Dive deeper into any concept instantly with AI-powered detailed explanations and real-time insights.",
+      "Unfold answers when you want them. Explore concepts in depth with AI-driven explanations and on-demand insights.",
   },
   {
     id: "03",
-    title: "Capture Your Insights",
+    title: "Save Your Notes",
     description:
-      "Add personal notes to any question, highlight key takeaways, and pin important ones to the top — making your learning more organized and meaningful.",
+      "Attach personal notes to questions, highlight takeaways, and pin essentials so your learning stays organized and actionable.",
   },
   {
     id: "04",
-    title: 'Understand the "Why" Behind Answers',
+    title: 'Understand the Reasoning Behind Answers',
     description:
-      "Go beyond memorizing answers — unlock AI-generated concept breakdowns that explain the logic and reasoning behind each solution to truly master it.",
+      "Go beyond rote responses — get AI-generated breakdowns that reveal the logic and reasoning behind each solution.",
   },
   {
     id: "05",
-    title: "Save, Organize, and Revisit",
+    title: "Store, Organize & Revisit",
     description:
-      "Easily save your interview sets, organize them neatly in your dashboard, and pick up your preparation right where you left off — anytime, anywhere.",
+      "Save sessions, organize them in your dashboard, and resume preparation exactly where you left off — whenever you return.",
   },
 ];
