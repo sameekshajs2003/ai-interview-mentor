@@ -9,20 +9,26 @@ An AI-powered interview preparation platform that helps candidates ace their tec
 
 ## ✨ Features
 
-### 🎯 **Tailored Just for You**
-Get interview questions and model answers based on your role, experience, and specific focus areas — no generic prep, only what truly matters to you.
+### 🎯 Get interview questions and model answers based on your role, experience, and specific focus areas.
 
-### 📚 **Learn at Your Own Pace**
-Expand answers only when you're ready. Dive deeper into any concept instantly with AI-powered detailed explanations and real-time insights.
+### 📚 Dive deeper into any concept instantly with AI-powered detailed explanations and real-time insights.
 
-### 📝 **Capture Your Insights**
-Add personal notes to any question, highlight key takeaways, and pin important ones to the top — making your learning more organized and meaningful.
+### 📝 Add personal notes to any question, highlight key takeaways, and pin important ones to the top.
 
-### 🧠 **Understand the "Why" Behind Answers**
-Go beyond memorizing answers — unlock AI-generated concept breakdowns that explain the logic and reasoning behind each solution to truly master it.
+### 🧠 unlock AI-generated concept breakdowns that explain the logic and reasoning behind each solution to truly master it.
 
-### 💾 **Save, Organize, and Revisit**
-Easily save your interview sets, organize them neatly in your dashboard, and pick up your preparation right where you left off — anytime, anywhere.
+### 💾 Easily save your interview sets, organize them neatly in your dashboard. 
+
+## 📸 Screenshots
+
+### 🟦 1. Landing Page
+<img src="https://github.com/user-attachments/assets/d5001dd8-4ecd-45fc-97d2-2a6f17d308ab" width="700"/>
+
+### 🟩 2. Generate Question + AI Response
+<img src="https://github.com/user-attachments/assets/14b567af-8954-4492-bb08-3a0b293b8e06" width="700"/>
+
+### 🟨 3. Dashboard / Saved Roles
+<img src="https://github.com/user-attachments/assets/e3628c1b-92ce-4f41-8d1f-a68b961b963e" width="700"/>
 
 ## 🛠️ Tech Stack
 
